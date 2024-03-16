@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\bin\Debug\net7.0\Lab1App1.exe
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\bin\Debug\net7.0\Lab1App1.deps.json
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\bin\Debug\net7.0\Lab1App1.runtimeconfig.json
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\bin\Debug\net7.0\Lab1App1.dll
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\bin\Debug\net7.0\Lab1App1.pdb
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.dll
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\refint\Lab1App1.dll
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.pdb
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\Lab1App1.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Lab1App1\Lab1App1\obj\Debug\net7.0\ref\Lab1App1.dll
